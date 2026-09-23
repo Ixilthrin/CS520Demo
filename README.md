@@ -1,6 +1,7 @@
 A simple OpenGL graphics engine featuring:
 Created for a class project (1st place awarded) around 2009
 
+* vertex and fragment shaders
 * procedural chess piece models with generated texture coordinates
 * simple lighting and projection shadows
 * texture mapping
